@@ -13,7 +13,7 @@ Welcome to my GitHub portfolio where I showcase my projects and technical journe
 
 ---
 
-## 📁 Featured Projects
+## 📁 Data Analysis Projects
 
 ### 📊 Page View Time Series Visualizer
 Visualized time-series data using Pandas, Matplotlib, and Seaborn.
@@ -23,7 +23,7 @@ Visualized time-series data using Pandas, Matplotlib, and Seaborn.
 
 ---
 
-### 🌐 Real Estate Landing Page (TitusCFU)
+### 🌐 Real Estate Website (TitusCFU)
 A landing page to attract vacation rental owners for a property management business in Athens.
 
 - 🔗 [Live Website](https://tituscfu.com/)
@@ -31,17 +31,23 @@ A landing page to attract vacation rental owners for a property management busin
 
 ---
 
-### 📱 [Other Notable Project Title]
-Brief description of what this project does.
+### 📱 TitusCFU Host Manager
+A short-term rental management app designed to help Airbnb hosts and small agencies automate schedules and booking visualization.
 
-- 📁 Repo: [GitHub Link](https://github.com/yourusername/project-name)
-- 🛠 Tech: Flutter / Android / API etc.
+- 📁 Repo: [GitHub Link](https://github.com/MiltiadisR/CapstoneProject)
+- 🛠 Tech: Flutter / Android / Firebase / REST API / Google Maps API
+
+📱 TitusCFU Host Manager
+A short-term rental management app designed to help Airbnb hosts and small agencies automate bookings, messaging, and cleaning schedules.
+
+📁 Repo: GitHub Link
+
+🛠 Tech: Flutter / Firebase / REST API / Google Maps API
 
 ---
 
 ## 🧠 Currently Learning
 
-- 
 - SQL
 - Tableau
 
