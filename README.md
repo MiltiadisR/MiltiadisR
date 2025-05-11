@@ -15,11 +15,36 @@ Welcome to my GitHub portfolio where I showcase my projects and technical journe
 
 ## 📁 Data Analysis Projects
 
-### 📊 Page View Time Series Visualizer
-Visualized time-series data using Pandas, Matplotlib, and Seaborn.
+### 📊 Mean-Variance-Standard Deviation Calculator  
+Calculated statistical measures (mean, variance, standard deviation) for a 3×3 matrix using NumPy and reshaping techniques.
 
-- 📁 Repo: [Page View Time Series Visualizer](https://github.com/yourusername/boilerplate-page-view-time-series-visualizer)
-- 🔧 Tech: Python, Matplotlib, Seaborn
+- 📁 Repo: [Mean-Variance-Standard Deviation Calculator](https://github.com/yourusername/boilerplate-mean-variance-standard-deviation-calculator)  
+- 🔧 Tech: Python, NumPy
+
+### 📊 Demographic Data Analyzer  
+Analyzed U.S. census demographic data to extract insights on education, race, income, and health insurance.
+
+- 📁 Repo: [Demographic Data Analyzer](https://github.com/yourusername/boilerplate-demographic-data-analyzer)  
+- 🔧 Tech: Python, Pandas, SciPy
+
+### 📊 Medical Data Visualizer  
+Cleaned and visualized medical examination data using categorical plots and correlation heatmaps.
+
+- 📁 Repo: [Medical Data Visualizer](https://github.com/yourusername/boilerplate-medical-data-visualizer)  
+- 🔧 Tech: Python, Pandas, Seaborn, Matplotlib
+
+### 📊 Page View Time Series Visualizer  
+Visualized page view trends over time using line plots, bar plots, and box plots.
+
+- 📁 Repo: [Page View Time Series Visualizer](https://github.com/yourusername/boilerplate-page-view-time-series-visualizer)  
+- 🔧 Tech: Python, Matplotlib, Seaborn, Pandas
+
+### 📊 Sea Level Predictor  
+Used linear regression on historical data to predict sea level rise through 2050.
+
+- 📁 Repo: [Sea Level Predictor](https://github.com/yourusername/boilerplate-sea-level-predictor)  
+- 🔧 Tech: Python, Matplotlib, Pandas, SciPy
+
 
 ---
 
