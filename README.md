@@ -18,7 +18,7 @@ Welcome to my GitHub portfolio where I showcase my projects and technical journe
 ### 📊 Mean-Variance-Standard Deviation Calculator  
 Calculated statistical measures (mean, variance, standard deviation) for a 3×3 matrix using NumPy and reshaping techniques.
 
-- 📁 Repo: [Mean-Variance-Standard Deviation Calculator](https://github.com/yourusername/boilerplate-mean-variance-standard-deviation-calculator)  
+- 📁 Repo: [Mean-Variance-Standard Deviation Calculator](https://github.com/MiltiadisR/Mean-Variance-Standard-Deviation-Calculator)  
 - 🔧 Tech: Python, NumPy
 
 ### 📊 Demographic Data Analyzer  
