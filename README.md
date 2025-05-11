@@ -55,7 +55,7 @@ A short-term rental management app designed to help Airbnb hosts and small agenc
 
 ## 📬 Let's Connect
 
-- 📧 [Email] mailto:email@example.com
+- 📧 <a href="mailto:miltossraptiss@gmail.com">Email</a>
 - 💼 [LinkedIn](https://www.linkedin.com/in/miltiadis-raptis-a971bb239/)
 - 🌍 [Facebook](https://www.facebook.com/miltos.raptis.9/)
 
