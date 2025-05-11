@@ -36,7 +36,7 @@ Cleaned and visualized medical examination data using categorical plots and corr
 ### 📊 Page View Time Series Visualizer  
 Visualized page view trends over time using line plots, bar plots, and box plots.
 
-- 📁 Repo: [Page View Time Series Visualizer](https://github.com/yourusername/boilerplate-page-view-time-series-visualizer)  
+- 📁 Repo: [Page View Time Series Visualizer](https://github.com/MiltiadisR/Page-View-Time-Series-Visualizer)  
 - 🔧 Tech: Python, Matplotlib, Seaborn, Pandas
 
 ### 📊 Sea Level Predictor  
