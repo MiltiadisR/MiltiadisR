@@ -30,7 +30,7 @@ Analyzed U.S. census demographic data to extract insights on education, race, in
 ### 📊 Medical Data Visualizer  
 Cleaned and visualized medical examination data using categorical plots and correlation heatmaps.
 
-- 📁 Repo: [Medical Data Visualizer](https://github.com/yourusername/boilerplate-medical-data-visualizer)  
+- 📁 Repo: [Medical Data Visualizer](https://github.com/MiltiadisR/Medical-Data-Visualizer)  
 - 🔧 Tech: Python, Pandas, Seaborn, Matplotlib
 
 ### 📊 Page View Time Series Visualizer  
