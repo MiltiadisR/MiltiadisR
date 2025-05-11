@@ -23,6 +23,8 @@ Visualized time-series data using Pandas, Matplotlib, and Seaborn.
 
 ---
 
+## 📁 Website Projects
+
 ### 🌐 Real Estate Website (TitusCFU)
 A landing page to attract vacation rental owners for a property management business in Athens.
 
@@ -30,6 +32,8 @@ A landing page to attract vacation rental owners for a property management busin
 - 🛠 Tech: HTML, CSS, WordPress (Villax theme)
 
 ---
+
+## 📁 Mobile Application Projects
 
 ### 📱 TitusCFU Host Manager
 A short-term rental management app designed to help Airbnb hosts and small agencies automate schedules and booking visualization.
