@@ -41,13 +41,6 @@ A short-term rental management app designed to help Airbnb hosts and small agenc
 - 📁 Repo: [GitHub Link](https://github.com/MiltiadisR/CapstoneProject)
 - 🛠 Tech: Flutter / Android / Firebase / REST API / Google Maps API
 
-📱 TitusCFU Host Manager
-A short-term rental management app designed to help Airbnb hosts and small agencies automate bookings, messaging, and cleaning schedules.
-
-📁 Repo: GitHub Link
-
-🛠 Tech: Flutter / Firebase / REST API / Google Maps API
-
 ---
 
 ## 🧠 Currently Learning
