@@ -45,6 +45,12 @@ Used linear regression on historical data to predict sea level rise through 2050
 - 📁 Repo: [Sea Level Predictor](https://github.com/yourusername/boilerplate-sea-level-predictor)  
 - 🔧 Tech: Python, Matplotlib, Pandas, SciPy
 
+### ☀️ Solar EUV & Magnetic Flux Correlation
+Analyzed 127 solar active regions across a full solar cycle using NASA SDO mission data. Measured EUV intensities across multiple wavelengths and correlated them with Total Unsigned Magnetic Flux to support coronal heating theories and far-side magnetic flux estimation.
+
+- 📁 Repo: Solar EUV & Magnetic Flux Correlation (link)
+- 🔧 Tech: Python, Pandas, NumPy, Matplotlib, SciPy
+
 
 ---
 
