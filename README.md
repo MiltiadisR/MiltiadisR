@@ -24,7 +24,7 @@ Calculated statistical measures (mean, variance, standard deviation) for a 3×3 
 ### 📊 Demographic Data Analyzer  
 Analyzed U.S. census demographic data to extract insights on education, race, income, and health insurance.
 
-- 📁 Repo: [Demographic Data Analyzer](https://github.com/yourusername/boilerplate-demographic-data-analyzer)  
+- 📁 Repo: [Demographic Data Analyzer](https://github.com/MiltiadisR/Demographic-Data-Analyzer/tree/main)  
 - 🔧 Tech: Python, Pandas, SciPy
 
 ### 📊 Medical Data Visualizer  
