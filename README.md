@@ -42,7 +42,7 @@ Visualized page view trends over time using line plots, bar plots, and box plots
 ### 📊 Sea Level Predictor  
 Used linear regression on historical data to predict sea level rise through 2050.
 
-- 📁 Repo: [Sea Level Predictor](https://github.com/yourusername/boilerplate-sea-level-predictor)  
+- 📁 Repo: [Sea Level Predictor](https://github.com/MiltiadisR/Sea-Level-Predictor)  
 - 🔧 Tech: Python, Matplotlib, Pandas, SciPy
 
 ### ☀️ Solar EUV & Magnetic Flux Correlation (Thesis)
