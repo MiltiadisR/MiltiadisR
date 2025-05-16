@@ -57,7 +57,7 @@ Analyzed 127 solar active regions across a full solar cycle using NASA SDO missi
 ## 📁 Website Projects
 
 ### 🌐 Real Estate Website (TitusCFU)
-A landing page to attract vacation rental owners for a property management business in Athens.
+A Website to attract vacation rental owners for a property management business in Corfu.
 
 - 🔗 [Live Website](https://tituscfu.com/)
 - 🛠 Tech: HTML, CSS, WordPress (Villax theme)
