@@ -1,7 +1,19 @@
 # 👋 Hi, I'm Miltos
 
-I'm a Junior Data Analyst with a passion for data analysis, web development and mobile apps.  
+I'm a Junior Data Analyst with a passion for data analysis, web development, and mobile applications.  
 Welcome to my GitHub portfolio where I showcase my projects and technical journey.
+
+## 📌 Summary (EN)
+
+On this profile, you'll find projects ranging from **data analysis with Python** to **data visualization** and **frontend development** using **Flutter**.  
+I work with libraries such as `Pandas`, `Matplotlib`, and `Seaborn`, and I'm interested in building **interactive dashboards** and **analytical reports** using tools like **Excel** and **Power BI**.  
+My work emphasizes clean, modular code and continuous improvement in tools like **SQL** and **modern visualization platforms**.
+
+## 📌 Περίληψη (GR)
+
+Σε αυτό το αποθετήριο παρουσιάζω projects που καλύπτουν την **ανάλυση και οπτικοποίηση δεδομένων με Python**, καθώς και **εφαρμογές διεπαφής** σε **Flutter**.  
+Αξιοποιώ βιβλιοθήκες όπως οι `Pandas`, `Matplotlib` και `Seaborn`, ενώ δημιουργώ **αναφορές και dashboards** με εργαλεία όπως το **Excel** και το **Power BI**.  
+Εστιάζω στον καθαρό κώδικα, στη μεθοδική οργάνωση και στην εξέλιξη των τεχνικών μου δεξιοτήτων.
 
 ---
 
